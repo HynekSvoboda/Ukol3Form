@@ -8,3 +8,13 @@ G:\prg\Form9.10\Form9.10\obj\Debug\Form9.10.csproj.GenerateResource.cache
 G:\prg\Form9.10\Form9.10\obj\Debug\Form9.10.csproj.CoreCompileInputs.cache
 G:\prg\Form9.10\Form9.10\obj\Debug\Form9.10.exe
 G:\prg\Form9.10\Form9.10\obj\Debug\Form9.10.pdb
+C:\Users\hynko\Source\Repos\Ukol3Form\Form9.10\Form9.10\bin\Debug\Form9.10.exe.config
+C:\Users\hynko\Source\Repos\Ukol3Form\Form9.10\Form9.10\bin\Debug\Form9.10.exe
+C:\Users\hynko\Source\Repos\Ukol3Form\Form9.10\Form9.10\bin\Debug\Form9.10.pdb
+C:\Users\hynko\Source\Repos\Ukol3Form\Form9.10\Form9.10\obj\Debug\Form9.10.csproj.AssemblyReference.cache
+C:\Users\hynko\Source\Repos\Ukol3Form\Form9.10\Form9.10\obj\Debug\Form9._10.Form1.resources
+C:\Users\hynko\Source\Repos\Ukol3Form\Form9.10\Form9.10\obj\Debug\Form9._10.Properties.Resources.resources
+C:\Users\hynko\Source\Repos\Ukol3Form\Form9.10\Form9.10\obj\Debug\Form9.10.csproj.GenerateResource.cache
+C:\Users\hynko\Source\Repos\Ukol3Form\Form9.10\Form9.10\obj\Debug\Form9.10.csproj.CoreCompileInputs.cache
+C:\Users\hynko\Source\Repos\Ukol3Form\Form9.10\Form9.10\obj\Debug\Form9.10.exe
+C:\Users\hynko\Source\Repos\Ukol3Form\Form9.10\Form9.10\obj\Debug\Form9.10.pdb

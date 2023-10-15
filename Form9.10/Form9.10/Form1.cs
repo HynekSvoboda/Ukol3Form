@@ -26,6 +26,7 @@ namespace Form9._10
 
         private void button1_Click(object sender, EventArgs e)
         {
+            listBox1.Items.Clear();
             int i = 0;
             while (i < 10)
             {
@@ -44,7 +45,7 @@ namespace Form9._10
                 textBox.Size = new Size(188, 22);
                 textBox.Text = label1.Text;
                 Form form2 = new Form(); //založení instance formuláře
-                form2.Location = new Point(0, 1000);
+                form2.Location = new Point(100, 100);
                 form2.Controls.Add(textBox);//přidání komponenty na formulář
                 form2.Controls.Add(button2);
                 form2.Controls.Add(button1);
