@@ -43,7 +43,6 @@ namespace Form9._10
                 TextBox textBox = new TextBox();//založení instance TextBoxu
                 textBox.Location = new Point(49, 40);
                 textBox.Size = new Size(188, 22);
-                textBox.Text = label1.Text;
                 Form form2 = new Form(); //založení instance formuláře
                 form2.Location = new Point(100, 100);
                 form2.Controls.Add(textBox);//přidání komponenty na formulář
