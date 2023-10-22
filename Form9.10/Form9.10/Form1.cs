@@ -55,8 +55,9 @@ namespace Form9._10
                 if (form2.ShowDialog() == DialogResult.OK)
                 {
                     listBox1.Items.Add(textBox.Text);
+                    i++;
                 }
-                i++;
+               
             }
             
         }
